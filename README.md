@@ -10,7 +10,7 @@ Innovation Days will be an event where people from across the organization meet
 to unleash creativity, test and prototype ideas - and have fun!
 
 Follow this web, read your e-mail, or follow our Slack channel to stay
-updated. There is a lot going on!
+updated. There is a lot going on! (Michal: I think you should move this sentence to the bottom where you refer to the actual slack channel and e-mail) 
 
 ## What
 
@@ -39,12 +39,13 @@ thus limited in scope and locations.*
 A company in the 21st century, with ever more rapidly changing markets, cannot
 survive without innovation. Innovation needs to become a part of our culture
 and thinking - and we need a space where we can unleash our ideas, without the
-stress and limits of daily work life. Innovation Days have three goals:
+stress and limits of daily work life (Michal: kan vi kutte ut dette avsnittet fram til før 3 goals?). Innovation Days have three goals:
 
 1. Let people from across the organization work together
-2. Make innovation a part of our culture
+2. Make innovation a part of our culture (Michal: Do we need this when we have bulletpoint 3?)
 3. Tap into the vast resource of innovation that our employees are and let them
   work on their latent ideas for new products, services, and improvements
+4. Prototype and validate ideas fast and cheap (Michal: I discussed this with Wasim and Jon Christian)
 
 ## When & Where
 
